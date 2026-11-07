@@ -1,0 +1,8 @@
+# Never commit real credentials
+secrets.h
+
+# Build output / IDE
+build/
+*.bin
+*.elf
+.vscode/
